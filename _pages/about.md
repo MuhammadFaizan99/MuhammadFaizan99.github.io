@@ -13,6 +13,11 @@ More recently, I have expanded my work into the education sector, dealing mostly
 
 If you are looking for collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
+<div style="background-color:#f9f9f9; border-left:6px solid #ff4d4d; padding:12px 16px; border-radius:8px; font-size:16px; margin-top:20px;">
+  <strong style="color:#ff4d4d;">💡 Interesting Fact:</strong>  
+  <span style="color:#333333;">I’m also a <strong>full-stack web and mobile app developer</strong> (Android &amp; iOS) with years of experience — <a href="mailto:muhammadfaizandev87@gmail.com" style="color:#ff4d4d; text-decoration:none; font-weight:bold;">please contact me</a> if you need help.</span>
+</div>
+
 A data-driven personal website
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured Markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various Markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
