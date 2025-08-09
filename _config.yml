@@ -24,7 +24,7 @@ author:
   # Biographic information
   avatar           : "2+2.JPG"
   name             : "Muhammad Faizan R.E."
-  pronouns         : "he/him"
+  pronouns         : # add there
   bio              : "Computer Engineer & Machine Learning Researcher"
   employer         : "UET Taxila"
   uri              : # URL
