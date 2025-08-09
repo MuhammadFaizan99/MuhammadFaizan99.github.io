@@ -24,16 +24,16 @@ My Skillset
 <li>Python & Libraries</li>
 <li>Machine Learning</li>
 <li>Computer Vision</li>
-<li>ENA</li>
-<li>HCI</li>
+<li>Epistemic Network Analysis</li>
+<li>Human–Computer Interaction</li>
 <li>Node.js</li>
 <li>Flask</li>
 <li>React Native</li>
 <li>Azure</li>
 <li>Data Science</li>
 <li>Deep Learning</li>
-<li>NLP</li>
-<li>LLMs</li>
+<li>Natural Language Processing</li>
+<li>Large Language Models</li>
 <li>JavaScript</li>
 <li>React.js</li>
 <li>MySQL & MongoDB</li>
