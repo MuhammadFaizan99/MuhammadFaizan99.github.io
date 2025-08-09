@@ -13,10 +13,10 @@ More recently, I have expanded my work into the education sector, dealing mostly
 
 If you are looking for collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
-<div style="background-color:#f9f9f9; border-left:6px solid #ff4d4d; padding:12px 16px; border-radius:8px; font-size:16px; margin-top:20px;">
+<div markdown="1" style="background-color:#f9f9f9; border-left:6px solid #ff4d4d; padding:12px 16px; border-radius:8px; font-size:16px; margin-top:20px;">
   <strong style="color:#ff4d4d;">Interesting Fact:</strong>  
-  <span style="color:#333333;">I’m also a <strong>full-stack web and mobile app developer</strong> (Android &amp; iOS) with years of experience — 
-    please [contact me](mailto:muhammadfaizandev87@gmail.com) if you need help.</span>
+  I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience —  
+  please [contact me](mailto:muhammadfaizandev87@gmail.com) if you need help.
 </div>
 
 A data-driven personal website
