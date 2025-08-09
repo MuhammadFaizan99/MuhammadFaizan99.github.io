@@ -1,15 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Welcome to my Page"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+I’m a **data-driven researcher** who loves turning messy, real-world data into reliable solutions. My inspiration comes from how unstructured data can be transformed into impactful outcomes that create real improvement. My research interests lean more toward the experimental side of machine learning systems, where I develop data-driven methods to solve real-world problems in engineering and healthcare domains.  
 
- You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
+More recently, I have expanded my work into the education sector, dealing mostly with textual data (student–teacher transcripts) to gain useful insights in both K–12 and STEM education settings. I have **3 years of research experience** with **6 articles currently under submission** and have presented my work at several conferences.  
+
+If you are looking for collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
 A data-driven personal website
 ======
