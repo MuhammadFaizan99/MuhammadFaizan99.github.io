@@ -14,8 +14,9 @@ More recently, I have expanded my work into the education sector, dealing mostly
 If you are looking for collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
 <div style="background-color:#f9f9f9; border-left:6px solid #ff4d4d; padding:12px 16px; border-radius:8px; font-size:16px; margin-top:20px;">
-  <strong style="color:#ff4d4d;">💡 Interesting Fact:</strong>  
-  <span style="color:#333333;">I’m also a <strong>full-stack web and mobile app developer</strong> (Android &amp; iOS) with years of experience — <a href="mailto:muhammadfaizandev87@gmail.com" style="color:#ff4d4d; text-decoration:none; font-weight:bold;">please contact me</a> if you need help.</span>
+  <strong style="color:#ff4d4d;">Interesting Fact:</strong>  
+  <span style="color:#333333;">I’m also a <strong>full-stack web and mobile app developer</strong> (Android &amp; iOS) with years of experience — 
+    please [contact me](mailto:muhammadfaizandev87@gmail.com) if you need help.</span>
 </div>
 
 A data-driven personal website
