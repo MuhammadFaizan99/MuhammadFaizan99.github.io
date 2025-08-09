@@ -20,15 +20,15 @@ If you are looking for collaboration in any of these areas, please feel free to 
 My Skillset
 ======
 
-- Python & Libraries     - Data Science
-- Machine Learning      - Deep Learning
-- Computer Vision      - NLP
-- ENA              - LLMs
-- HCI              - JavaScript
-- Node.js            - React.js
-- Flask             - MySQL & MongoDB
-- React Native        - Google Cloud Platform (GCP)
-- Azure            - AWS
+| Python & Libraries | Data Science |
+| Machine Learning   | Deep Learning |
+| Computer Vision    | NLP |
+| ENA                | LLMs |
+| HCI                | JavaScript |
+| Node.js            | React.js |
+| Flask              | MySQL & MongoDB |
+| React Native       | Google Cloud Platform (GCP) |
+| Azure              | AWS |
 
 Getting started
 ======
