@@ -14,8 +14,7 @@ More recently, I have expanded my work into the education sector, dealing mostly
 If you are looking for collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
 <div markdown="1" style="background-color:#f9f9f9; border-left:6px solid #ff4d4d; padding:12px 16px; border-radius:8px; font-size:16px; margin:20px 0px;">
-  I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience —  
-  please [contact me](mailto:muhammadfaizandev87@gmail.com) if you need help.
+  I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience, please [contact me](mailto:muhammadfaizandev87@gmail.com) if you need help.
 </div>
 
 A data-driven personal website
