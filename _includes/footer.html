@@ -1,5 +1,6 @@
 {% include base_path %}
 
-<footer class="page__footer" style="background:#f5f5f5; padding:5px 0; text-align:center;">
-  © {{ site.time | date: "%Y" }} Muhammad Faizan · All Rights Reserved
-</footer>
+<div class="page__footer-copyright">
+  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }} · All Rights Reserved<br />
+  Site last updated {{ "now" | date: '%Y-%m-%d' }}
+</div>
