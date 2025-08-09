@@ -46,8 +46,8 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/MuhammadFaizan99"
-  kaggle           : "https://www.kaggle.com/muhammadfaizan65/code" 
+  github           : "MuhammadFaizan99"
+  kaggle           : "muhammadfaizan65/code" 
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "https://www.linkedin.com/in/muhammad-faizan-dev-0461b1192"
+  linkedin         : "muhammad-faizan-dev-0461b1192"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
