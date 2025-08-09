@@ -26,7 +26,7 @@ author:
   name             : "Muhammad Faizan R.E."
   pronouns         : # example: "she/her"  
   bio              : "Data-driven researcher specializing in ML, DL, CV, HCI, NLP, and LLMs, with applications in engineering, education, and healthcare."
-  employer         : "University of Engineering and Technology, Taxila"
+  employer         : "UET Taxila"
   uri              : # URL
   email            : "muhammadfaizandev87@gmail.com" 
 
@@ -60,7 +60,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "https://www.linkedin.com/in/muhammad-faizan-dev-0461b1192"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
