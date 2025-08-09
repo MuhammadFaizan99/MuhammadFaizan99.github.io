@@ -45,5 +45,5 @@ Education
 ======
 
 **B.Sc. in Computer Engineering**  
-*University of Engineering & Technology (UET), Taxila, Pakistan*  
-*2019–2023*
+University of Engineering & Technology (UET), Taxila, Pakistan
+2019–2023
