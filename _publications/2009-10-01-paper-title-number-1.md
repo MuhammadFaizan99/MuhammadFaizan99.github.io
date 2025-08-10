@@ -3,7 +3,6 @@ title: "Applying Machine Learning in Predicting the Effect of Cross-Sectional Sh
 collection: publications
 category: published
 permalink: /publication/2024-01-01-cross-sectional-shape-cfrp-columns
-excerpt: 'This paper applies machine learning to predict the effect of cross-sectional shape on the axial strength of thermally damaged and CFRP-repaired concrete columns.'
 date: 2024-01-01
 venue: 'International Journal of Innovations in Science and Technology (IF = 4.312)'
 paperurl: ''
