@@ -48,35 +48,35 @@
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
 
-    {%- comment -%}
-    Determine submission state:
+    {% comment %}
+    Derive submission state from:
     - submitted: true
-    - status: "submitted", "in preparation", "to submit" (case-insensitive)
-    {%- endcomment -%}
+    - status: "submitted", "in preparation", "to submit" (any case)
+    {% endcomment %}
     {% assign is_submitted = false %}
     {% assign status_down = post.status | downcase %}
-    {% if post.submitted == true or status_down == 'submitted' or status_down contains 'in preparation' or status_down contains 'to submit' %}
+    {% if post.submitted == true or status_down == 'submitted' or status_down contains 'submitted' or status_down contains 'in preparation' or status_down contains 'to submit' %}
       {% assign is_submitted = true %}
     {% endif %}
 
-    {%- comment -%} Build links in one place {%- endcomment -%}
-    {%- capture links -%}{%- endcapture -%}
-    {%- if post.paperurl and is_submitted == false -%}
-      {%- capture links -%}{{ links }}<a href="{{ post.paperurl }}">Download Paper</a>{%- endcapture -%}
-    {%- endif -%}
-    {%- if post.slidesurl -%}
-      {%- capture links -%}{{ links }}{% if links != '' %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{%- endcapture -%}
-    {%- endif -%}
-    {%- if post.bibtexurl -%}
-      {%- capture links -%}{{ links }}{% if links != '' %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{%- endcapture -%}
-    {%- endif -%}
+    {% comment %} Build links once {% endcomment %}
+    {% capture links %}{% endcapture %}
+    {% if post.paperurl and is_submitted == false %}
+      {% capture links %}{{ links }}<a href="{{ post.paperurl }}">Download Paper</a>{% endcapture %}
+    {% endif %}
+    {% if post.slidesurl %}
+      {% capture links %}{{ links }}{% if links != '' %} | {% endif %}<a href="{{ post.slidesurl }}">Download Slides</a>{% endcapture %}
+    {% endif %}
+    {% if post.bibtexurl %}
+      {% capture links %}{{ links }}{% if links != '' %} | {% endif %}<a href="{{ post.bibtexurl }}">Download Bibtex</a>{% endcapture %}
+    {% endif %}
 
-    {%- if post.citation -%}
+    {% if post.citation %}
       <p style="font-size: 0.75em;">Authors: {{ post.citation }}</p>
-    {%- endif -%}
-    {%- if links != '' -%}
+    {% endif %}
+    {% if links != '' %}
       <p>{{ links }}</p>
-    {%- endif -%}
+    {% endif %}
 
   </article>
 </div>
