@@ -40,9 +40,9 @@
       <p style="font-size: 0.75em;"><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
     {% elsif post.date %}
       <p class="page__date">
-        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> 
+        <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i>
           {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}
-        </strong> 
+        </strong>
         <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">
           {{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}
         </time>
@@ -60,12 +60,20 @@
     {% endif %}
 
     {%- comment -%}
-      Only show download options if the paper is NOT submitted
-      Add a front matter field in your post like:
-      status: submitted
+      Robust "submitted" detection:
+      - status: submitted
+      - state: submitted
+      - submitted: true / "true"
     {%- endcomment -%}
+    {% assign _status  = post.status | default: "" | downcase | strip %}
+    {% assign _state   = post.state  | default: "" | downcase | strip %}
+    {% assign _sub_str = post.submitted | default: "" | downcase | strip %}
+    {% assign _is_submitted = false %}
+    {% if _status == "submitted" or _state == "submitted" or post.submitted == true or _sub_str == "true" %}
+      {% assign _is_submitted = true %}
+    {% endif %}
 
-    {% if post.status != "submitted" %}
+    {% unless _is_submitted %}
       {% if post.citation and post.paperurl and post.slidesurl and post.bibtexurl %}
         <p>Authors: {{ post.citation }}<br /><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
       {% elsif post.citation and post.paperurl and post.slidesurl %}
@@ -94,8 +102,11 @@
         <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
       {% endif %}
     {% else %}
-      <p style="font-size: 0.75em;">Authors: {{ post.citation }}<br /><em>Paper submitted — downloads not available yet.</em></p>
-    {% endif %}
+      <p style="font-size: 0.75em;">
+        {% if post.citation %}Authors: {{ post.citation }}<br />{% endif %}
+        <em>Paper submitted — downloads not available yet.</em>
+      </p>
+    {% endunless %}
 
   </article>
 </div>
