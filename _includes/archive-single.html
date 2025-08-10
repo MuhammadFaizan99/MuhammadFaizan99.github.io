@@ -13,13 +13,7 @@
 {% endif %}
 
 {%- comment -%}
-  Hide downloads when a post is "submitted".
-  Triggers if ANY of these are set:
-   - category: submitted
-   - categories: [ ..., submitted, ... ]
-   - venue: Submitted
-   - status/state/paper_status/stage/submission_status: submitted
-   - submitted: true / "true"
+  Hide downloads when post is "submitted"
 {%- endcomment -%}
 {% assign cat_str = "" %}
 {% if post.category %}
@@ -27,7 +21,6 @@
 {% elsif post.categories %}
   {% assign cat_str = post.categories | join: " " | downcase | strip %}
 {% endif %}
-
 {% assign ven_str   = post.venue | default: "" | downcase | strip %}
 {% assign st1       = post.status | default: "" | downcase | strip %}
 {% assign st2       = post.state  | default: "" | downcase | strip %}
@@ -112,11 +105,6 @@
       {% elsif post.bibtexurl %}
         <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
       {% endif %}
-    {% else %}
-      <p style="font-size: 0.75em;">
-        {% if post.citation %}Authors: {{ post.citation }}<br />{% endif %}
-        <em>Paper submitted — downloads not available yet.</em>
-      </p>
     {% endif %}
 
   </article>
