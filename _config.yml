@@ -79,11 +79,11 @@ author:
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
-  books:
+  published:
     title: 'Published'
-  manuscripts:
+  submitted:
     title: 'Submitted Articles (In Progress)'    
-  conferences:
+  contributions:
     title: 'Open Source Contributions'
 
 # Site Settings
