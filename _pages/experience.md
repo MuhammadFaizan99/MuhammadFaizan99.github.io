@@ -18,7 +18,7 @@ redirect_from:
 * **Hactric Solutions (Pvt) Ltd.** – Technology Incubation Centre (TIC), Islamabad, Pakistan  
   * **ML & Web Researcher**  
   **Duration:** February 2024 – Contd.  
-    “Conducting research in machine learning and web development, focusing on innovative AI applications. Contributed to impactful research projects at [NUST]([https://www.uettaxila.edu.pk](https://nust.edu.pk/)), one of Pakistan’s leading universities.”
+    “Conducting research in machine learning and web development, focusing on innovative AI applications. Contributed to impactful research projects at [NUST]([https://nust.edu.pk/]), one of Pakistan’s leading universities.”
 
 * **UET Taxila** – Taxila, Pakistan  
   * **Applied ML Researcher**  
