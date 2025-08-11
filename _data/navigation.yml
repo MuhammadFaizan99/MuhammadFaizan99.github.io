@@ -15,10 +15,10 @@ main:
     url: /portfolio/
 
   - title: "Experience"
-    url: /cv/    
+    url: /experience/    
 
   - title: "Awards"
-    url: /cv/    
+    url: /awards/    
     
   - title: "More"
-    url: /cv/
+    url: /more/
