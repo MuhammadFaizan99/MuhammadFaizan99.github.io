@@ -99,5 +99,13 @@
       {% endif %}
     {% endif %}
 
+    {% if post.preview %}
+  <p>
+    <a href="{{ post.preview }}" target="_blank" class="btn btn--primary">
+      Preview
+    </a>
+  </p>
+{% endif %}
+
   </article>
 </div>
