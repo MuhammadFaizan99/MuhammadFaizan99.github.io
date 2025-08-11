@@ -40,14 +40,12 @@
       {{ title }}
     </h3>
 
-    {#-- 2) IMAGE NEXT --#}
     {% if teaser %}
       <div class="archive__item-teaser">
         <img src={% if teaser contains "://" %}"{{ teaser }}"{% else %}"{{ teaser | prepend: "/images/" | prepend: base_path }}"{% endif %} alt="">
       </div>
     {% endif %}
 
-    {#-- 3) DESCRIPTION (EXCERPT) WITH INLINE "Preview here" LINK AT THE END --#}
     {% if post.excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
         {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
@@ -106,8 +104,6 @@
         <p><a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
       {% endif %}
     {% endif %}
-
-    {#-- NO BUTTON PREVIEW: removed old button block intentionally --#}
 
   </article>
 </div>
