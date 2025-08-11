@@ -59,14 +59,10 @@
       </p>
     {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
+    {% assign excerpt_text = post.excerpt | markdownify | strip_html | strip %}
+    {% if excerpt_text != "" %}
       <p class="archive__item-excerpt" itemprop="description" style="font-size:1.08em; line-height:1.65;">
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% if post.preview %} <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
-      </p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.08em; line-height:1.65;">
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>{% if post.preview %} · <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
+        {{ excerpt_text }}{% if post.preview %} <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
       </p>
     {% elsif post.preview %}
       <p class="archive__item-excerpt" itemprop="description" style="font-size:1.08em; line-height:1.65;">
