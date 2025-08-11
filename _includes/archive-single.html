@@ -12,20 +12,19 @@
   {% assign title = post.title %}
 {% endif %}
 
-{%- comment -%} Hide downloads when post is "submitted" {%- endcomment -%}
 {% assign cat_str = "" %}
 {% if post.category %}
   {% assign cat_str = post.category | downcase | strip %}
 {% elsif post.categories %}
   {% assign cat_str = post.categories | join: " " | downcase | strip %}
 {% endif %}
-{% assign ven_str   = post.venue | default: "" | downcase | strip %}
-{% assign st1       = post.status | default: "" | downcase | strip %}
-{% assign st2       = post.state  | default: "" | downcase | strip %}
-{% assign st3       = post.paper_status | default: "" | downcase | strip %}
-{% assign st4       = post.stage | default: "" | downcase | strip %}
-{% assign st5       = post.submission_status | default: "" | downcase | strip %}
-{% assign sub_str   = post.submitted | default: "" | downcase | strip %}
+{% assign ven_str = post.venue | default: "" | downcase | strip %}
+{% assign st1 = post.status | default: "" | downcase | strip %}
+{% assign st2 = post.state  | default: "" | downcase | strip %}
+{% assign st3 = post.paper_status | default: "" | downcase | strip %}
+{% assign st4 = post.stage | default: "" | downcase | strip %}
+{% assign st5 = post.submission_status | default: "" | downcase | strip %}
+{% assign sub_str = post.submitted | default: "" | downcase | strip %}
 
 {% assign show_downloads = true %}
 {% if cat_str contains "submitted" or ven_str == "submitted" or st1 == "submitted" or st2 == "submitted" or st3 == "submitted" or st4 == "submitted" or st5 == "submitted" or post.submitted == true or sub_str == "true" %}
@@ -41,30 +40,10 @@
 
     {% if teaser %}
       <div class="archive__item-teaser">
-        <img src={% if teaser contains "://" %}"{{ teaser }}"{% else %}"{{ teaser | prepend: "/images/" | prepend: base_path }}"{% endif %} alt="">
+        <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="">
       </div>
     {% endif %}
 
-    {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-        {% if post.preview %} <a href="{{ post.preview }}" target="_blank">Preview here</a>{% endif %}
-      </p>
-    {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong>
-        {% if post.preview %} · <a href="{{ post.preview }}" target="_blank">Preview here</a>{% endif %}
-      </p>
-    {% else %}
-      {% if post.preview %}
-        <p class="archive__item-excerpt" itemprop="description">
-          <a href="{{ post.preview }}" target="_blank">Preview here</a>
-        </p>
-      {% endif %}
-    {% endif %}
-
-    {#-- META/DATE --#}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -80,12 +59,23 @@
       </p>
     {% endif %}
 
-    {#-- AUTHORS --#}
+    {% if post.excerpt and site.read_more != 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        {% if post.preview %}<a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
+      </p>
+    {% elsif post.excerpt and site.read_more == 'enabled' %}
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
+        {% if post.preview %} · <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
+      </p>
+    {% endif %}
+
     {% if post.citation %}
       <p style="font-size: 0.75em;">Authors: {{ post.citation }}</p>
     {% endif %}
 
-    {#-- DOWNLOADS (RESPECT "submitted" HIDE RULE) --#}
     {% if show_downloads %}
       {% if post.paperurl and post.slidesurl and post.bibtexurl %}
         <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
