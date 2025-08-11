@@ -15,7 +15,7 @@ redirect_from:
   **Duration:** March 2025 – Contd.  
     “Working virtually under [Dr. Ali Raza](https://aliraza.org/) in the **EdTech Partnership Lab**, particularly focusing on analyzing large-scale textual data related to STEM and K–12 education. Assisting in research projects involving learning analytics, cognitive epistemic network analysis, and data-driven insights generation.”
 
-* **Hactric Solutions (Pvt) Ltd.** – Technology Incubation Centre (TIC), Islamabad, Pakistan  
+* **Hactric Solutions (Pvt) Ltd.** – Technology Incubation Centre (TIC), Islamabad  
   * **ML & Web Researcher**  
   **Duration:** February 2024 – Contd.  
     “Conducting research in machine learning and web development, focusing on innovative AI applications. Contributed to impactful research projects at [NUST]([https://nust.edu.pk/]), one of Pakistan’s leading universities.”
