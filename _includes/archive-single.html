@@ -12,9 +12,7 @@
   {% assign title = post.title %}
 {% endif %}
 
-{%- comment -%}
-  Hide downloads when post is "submitted"
-{%- endcomment -%}
+{%- comment -%} Hide downloads when post is "submitted" {%- endcomment -%}
 {% assign cat_str = "" %}
 {% if post.category %}
   {% assign cat_str = post.category | downcase | strip %}
@@ -37,28 +35,39 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    {%- comment -%} Show teaser image ABOVE title (in any layout) {%- endcomment -%}
+    {#-- 1) TITLE ON TOP --#}
+    <h3 class="archive__item-title">
+      {{ title }}
+    </h3>
+
+    {#-- 2) IMAGE NEXT --#}
     {% if teaser %}
       <div class="archive__item-teaser">
         <img src={% if teaser contains "://" %}"{{ teaser }}"{% else %}"{{ teaser | prepend: "/images/" | prepend: base_path }}"{% endif %} alt="">
       </div>
     {% endif %}
 
-    {%- comment -%} Show excerpt/description ABOVE title {%- endcomment -%}
+    {#-- 3) DESCRIPTION (EXCERPT) WITH INLINE "Preview here" LINK AT THE END --#}
     {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
+      <p class="archive__item-excerpt" itemprop="description">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        {% if post.preview %} <a href="{{ post.preview }}" target="_blank">Preview here</a>{% endif %}
+      </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">
-        <p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-          <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        </p>
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
+        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink">Read more</a></strong>
+        {% if post.preview %} · <a href="{{ post.preview }}" target="_blank">Preview here</a>{% endif %}
       </p>
+    {% else %}
+      {% if post.preview %}
+        <p class="archive__item-excerpt" itemprop="description">
+          <a href="{{ post.preview }}" target="_blank">Preview here</a>
+        </p>
+      {% endif %}
     {% endif %}
 
-    <h3 class="archive__item-title">
-      {{ title }}
-    </h3>
-
+    {#-- META/DATE --#}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
@@ -74,10 +83,12 @@
       </p>
     {% endif %}
 
+    {#-- AUTHORS --#}
     {% if post.citation %}
       <p style="font-size: 0.75em;">Authors: {{ post.citation }}</p>
     {% endif %}
 
+    {#-- DOWNLOADS (RESPECT "submitted" HIDE RULE) --#}
     {% if show_downloads %}
       {% if post.paperurl and post.slidesurl and post.bibtexurl %}
         <p><a href="{{ post.paperurl }}">Download Paper</a> | <a href="{{ post.slidesurl }}">Download Slides</a> | <a href="{{ post.bibtexurl }}">Download Bibtex</a></p>
@@ -96,13 +107,7 @@
       {% endif %}
     {% endif %}
 
-    {% if post.preview %}
-      <p>
-        <a href="{{ post.preview }}" target="_blank" class="btn btn--primary">
-          Preview
-        </a>
-      </p>
-    {% endif %}
+    {#-- NO BUTTON PREVIEW: removed old button block intentionally --#}
 
   </article>
 </div>
