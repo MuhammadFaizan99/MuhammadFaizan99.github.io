@@ -30,7 +30,7 @@ Professional Experience
   *Duration:* December 2021 – Contd.  
     “Applied machine learning techniques across engineering and medical fields to develop advanced predictive models and analytical tools, enhancing accuracy, efficiency, and informed decision-making in complex interdisciplinary research projects.”
 
-* **Rozi Academy** – Lahore, Pakistan  
+* **Rozi Academy** – Rawalpindi, Pakistan  
   * *ML Engineer*  
   *Duration:* March 2023 – January 2024  
     “Applied machine learning to develop models for recommendation systems, predictive analytics, and user insights, creating data-driven solutions that enhanced intelligent decision-making and user personalization.”
