@@ -1,5 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Piquant Catering"
+excerpt: "Web application for Piquant Catering, showcasing extraordinary culinary artistry for life's most meaningful celebrations. The platform highlights bespoke menus, seasonal ingredients, and beautifully curated presentations for weddings, corporate events, and private gatherings.<br/><img src='/images/Catering.PNG'>"
+preview: "https://www.piquantcatering.com/"
 collection: portfolio
 ---
