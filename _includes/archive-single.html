@@ -34,15 +34,15 @@
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
 
-    <h3 class="archive__item-title">
-      {{ title }}
-    </h3>
-
     {% if teaser %}
       <div class="archive__item-teaser">
         <img src="{% if teaser contains '://' %}{{ teaser }}{% else %}{{ teaser | prepend: '/images/' | prepend: base_path }}{% endif %}" alt="">
       </div>
     {% endif %}
+
+    <h3 class="archive__item-title">
+      {{ title }}
+    </h3>
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock" aria-hidden="true"></i> {% include read-time.html %}</p>
@@ -60,18 +60,16 @@
     {% endif %}
 
     {% if post.excerpt and site.read_more != 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.06em; line-height:1.6;">
-        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-        {% if post.preview %} <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
+      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.08em; line-height:1.65;">
+        {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}{% if post.preview %} <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
       </p>
     {% elsif post.excerpt and site.read_more == 'enabled' %}
-      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.06em; line-height:1.6;">
+      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.08em; line-height:1.65;">
         {{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}
-        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>
-        {% if post.preview %} · <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
+        <strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong>{% if post.preview %} · <a href="{{ post.preview }}" target="_blank">Preview</a>{% endif %}
       </p>
     {% elsif post.preview %}
-      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.06em; line-height:1.6;">
+      <p class="archive__item-excerpt" itemprop="description" style="font-size:1.08em; line-height:1.65;">
         <a href="{{ post.preview }}" target="_blank">Preview</a>
       </p>
     {% endif %}
