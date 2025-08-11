@@ -11,10 +11,9 @@ I’m a **data-driven researcher** who loves turning messy, real-world data into
 
 More recently, I have expanded my work into the education sector, dealing mostly with textual data (student–teacher transcripts) to gain useful insights in both K–12 and STEM education settings. I have **3 years of research experience** with **6 articles currently under submission** and have presented my work at several conferences.  
 
-If you are looking for collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
+If you are looking for research collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
-
-  I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience, please [contact me](mailto:muhammadfaizandev87@gmail.com) if you need help.
+  I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience — please check some of my interesting work [here](https://muhammadfaizan99.github.io/portfolio/) and if you need help [contact me](mailto:muhammadfaizandev87@gmail.com).
 <!-- </div> -->
 
 My Skillset
