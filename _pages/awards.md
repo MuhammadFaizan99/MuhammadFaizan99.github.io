@@ -17,10 +17,10 @@ redirect_from:
 
 ## Leadership Roles and Associations
 
-- **Head:** *Taxilians Robotics and Automation Club*, [UET Taxila](https://www.uettaxila.edu.pk) — *2019–2023*  
-- **Head:** *Artificial Intelligence Research and Development*, [UET Taxila](https://www.uettaxila.edu.pk) — *2020–2023*  
-- **Project Lead:** *Industry-based FYP*, AIIT Solutions, [UET Taxila](https://www.uettaxila.edu.pk) — *2021–2023*  
-- **Volunteer:** *Umeed-E-Subh* (A Struggle for a Literate Pakistan), [UET Taxila](https://www.uettaxila.edu.pk) — *2019–2021*  
+- **Head:** *[Taxilians Robotics and Automation Club](https://trac.com.pk/)*, [UET Taxila](https://www.uettaxila.edu.pk) — *2019–2023*  
+- **Head:** *[Artificial Intelligence Research and Development](https://www.linkedin.com/in/artificial-intelligence-research-and-development-society-uet-taxila-7401b2224/?originalSubdomain=pk)*, [UET Taxila](https://www.uettaxila.edu.pk) — *2020–2023*  
+- **Project Lead:** *Industry-based FYP*, [AIIT Solutions](https://aiitsolutions.com/), [UET Taxila](https://www.uettaxila.edu.pk) — *2021–2023*  
+- **Volunteer:** *[Umeed-E-Subh* (A Struggle for a Literate Pakistan)](https://www.linkedin.com/company/umeed-e-subh-uet-taxila/?originalSubdomain=pk), [UET Taxila](https://www.uettaxila.edu.pk) — *2019–2021*  
 - **Event Manager:** *Enlightening the Darkness*, a project by ALMS 360 — *2019–2021*
 
 ## Scholarships and Grants
