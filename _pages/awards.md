@@ -13,7 +13,7 @@ redirect_from:
 - **Master rank** on Kaggle.  
 - Bonus awarded **Best Employee of the Month** at Rozi Academy.  
 - **Guest speaker** at several events to talk about AI advancements and Software Development.  
-- Certification of being the **best player of Volleyball**.
+- [**Runner-up Certificate**](https://drive.google.com/file/d/16C0nUqVjeAWJ2AZPXiZdZCFbgqcTTKpZ/view?usp=sharing) as Captain (Sports Week, Volleyball).
 
 ## Leadership Roles and Associations
 
