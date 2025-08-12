@@ -22,4 +22,4 @@ redirect_from:
 - Coding
 - Listening to music
 - Reading books / watching scientific documentaries 
-- Playing cricket/volleyball (occasionally)
+- Playing cricket / volleyball (occasionally)
