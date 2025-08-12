@@ -21,5 +21,5 @@ redirect_from:
 
 - Coding
 - Listening to music
-- Reading books related to current affairs and AI 
+- Reading books / watching scientific documentaries 
 - Playing cricket/volleyball (occasionally)
