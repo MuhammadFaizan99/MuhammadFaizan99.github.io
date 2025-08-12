@@ -20,6 +20,6 @@ redirect_from:
 ## Hobbies and Interests:
 
 - Coding
-- Playing cricket on weekends.  
-- Reading books related to current affairs and AI.  
-- Playing volleyball.
+- Listening to music
+- Reading books related to current affairs and AI 
+- Playing cricket/volleyball (occasionally)
