@@ -26,7 +26,6 @@
 {% assign st5 = post.submission_status | default: "" | downcase | strip %}
 {% assign sub_str = post.submitted | default: "" | downcase | strip %}
 
-{%- comment -%} flags {%- endcomment -%}
 {% assign is_submitted = false %}
 {% if cat_str contains "submitted" or ven_str == "submitted" or st1 == "submitted" or st2 == "submitted" or st3 == "submitted" or st4 == "submitted" or st5 == "submitted" or post.submitted == true or sub_str == "true" %}
   {% assign is_submitted = true %}
@@ -81,7 +80,6 @@
       </p>
     {% endif %}
 
-    {# Hide authors when active #}
     {% if post.citation and is_active == false %}
       <p style="font-size: 0.75em;">Authors: {{ post.citation }}</p>
     {% endif %}
