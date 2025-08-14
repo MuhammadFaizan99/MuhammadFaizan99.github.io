@@ -51,23 +51,25 @@
     {% endif %}
 
     <p style="margin-bottom:0;">
-      {{ include.index | default: forloop.index }}. {{ title }}
-      {% if show_downloads %}
-        {% assign links = "" %}
-        {% if post.paperurl %}
-          {% assign links = links | append: '<a href="' | append: post.paperurl | append: '">Download Paper</a>' %}
-        {% endif %}
-        {% if post.slidesurl %}
-          {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-          {% assign links = links | append: '<a href="' | append: post.slidesurl | append: '">Slides</a>' %}
-        {% endif %}
-        {% if post.bibtexurl %}
-          {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
-          {% assign links = links | append: '<a href="' | append: post.bibtexurl | append: '">BibTeX</a>' %}
-        {% endif %}
-        {% if links != "" %} [{{ links }}]{% endif %}
-      {% endif %}
-    </p>
+  {{ include.index | default: forloop.index }}. {{ title }}
+  {% if show_downloads %}
+    {% assign links = "" %}
+    {% if post.paperurl %}
+      {% assign links = links | append: '[Download Paper]' %}
+      {% assign links = '<a href="' | append: post.paperurl | append: '">' | append: links | append: '</a>' %}
+    {% endif %}
+    {% if post.slidesurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: post.slidesurl | append: '">[Slides]</a>' %}
+    {% endif %}
+    {% if post.bibtexurl %}
+      {% if links != "" %}{% assign links = links | append: ' | ' %}{% endif %}
+      {% assign links = links | append: '<a href="' | append: post.bibtexurl | append: '">[BibTeX]</a>' %}
+    {% endif %}
+    {% if links != "" %} {{ links | raw }}{% endif %}
+  {% endif %}
+</p>
+
 
     {% if post.citation and is_active == false %}
       <p class="archive__item-authors" style="margin:0.15rem 0 0 0; font-size:0.95em;">
