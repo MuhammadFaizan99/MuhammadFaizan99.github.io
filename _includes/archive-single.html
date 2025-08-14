@@ -50,8 +50,7 @@
       </div>
     {% endif %}
 
-    <!-- Title + inline links -->
-    <p class="archive__item-title" style="margin-bottom:0;">
+    <p style="margin-bottom:0;">
       {{ include.index | default: forloop.index }}. {{ title }}
       {% if show_downloads %}
         {% assign links = "" %}
@@ -70,14 +69,12 @@
       {% endif %}
     </p>
 
-    <!-- Authors directly under title (no label) -->
     {% if post.citation and is_active == false %}
       <p class="archive__item-authors" style="margin:0.15rem 0 0 0; font-size:0.95em;">
         {{ post.citation }}
       </p>
     {% endif %}
 
-    <!-- Venue / Journal line just below authors -->
     {% if post.collection == 'publications' %}
       <p class="archive__item-venue" style="margin:0.15rem 0 0 0; font-size:0.9em;">
         <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
