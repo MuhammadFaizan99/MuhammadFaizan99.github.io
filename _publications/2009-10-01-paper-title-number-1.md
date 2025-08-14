@@ -3,7 +3,7 @@ title: "Applying Machine Learning in Predicting the Effect of Cross-Sectional Sh
 collection: publications
 category: published
 date: 2024-01-01
-venue: 'International Journal of Innovations in Science and Technology (IF = **4.312**)'
+venue: 'International Journal of Innovations in Science and Technology (IF = <b>4.312</b>)'
 paperurl: "/files/applying-ml-cross-sectional-strength.pdf"
 citation: 'Salman, M., <b>Faizan, M.</b>, Noman, M., & Salati, M.'
 ---
