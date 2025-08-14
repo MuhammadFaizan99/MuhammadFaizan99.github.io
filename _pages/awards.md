@@ -12,7 +12,7 @@ redirect_from:
 
 - [Master rank](https://www.kaggle.com/muhammadfaizan65) on Kaggle.
 - [Runner-up Certificate](https://drive.google.com/file/d/16C0nUqVjeAWJ2AZPXiZdZCFbgqcTTKpZ/view?usp=sharing) as Captain (Sports Week, Volleyball).
-- **Guest speaker** at several events to talk about AI advancements and Software Development (e.g., [IEEE WiE UET-24](https://www.linkedin.com/company/ieee-wie-ag-uet-taxila/?originalSubdomain=pk)). 
+- **Guest speaker** at several events to talk about AI and Software Development (e.g., [IEEE WiE UET-24](https://www.linkedin.com/company/ieee-wie-ag-uet-taxila/?originalSubdomain=pk)). 
 - Bonus awarded **Best Employee of the Month** at Rozi Academy.   
 
 ## Leadership Roles and Associations
