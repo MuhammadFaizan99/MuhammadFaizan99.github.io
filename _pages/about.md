@@ -9,7 +9,7 @@ redirect_from:
 
 I’m a **data-driven researcher** who loves turning messy, real-world data into reliable solutions. My inspiration comes from how unstructured data can be transformed into impactful outcomes that create real improvement. My research interests lean more toward the experimental side of machine learning systems, where I develop data-driven methods to solve real-world problems in engineering and healthcare domains.  
 
-More recently, I have expanded my work into the education sector, dealing mostly with textual data (student–teacher transcripts) to gain useful insights in both K–12 and STEM education settings. I have **3 years of research experience** with **6 articles currently under submission** and have presented my work at several conferences (e.g., ICCoR-24).  
+More recently, I have expanded my work into the education sector, dealing mostly with textual data (student–teacher transcripts) to gain useful insights in both K–12 and STEM education settings. I have **3 years of research experience** with **6 articles currently under submission** and have presented my work at several conferences (e.g., [ICCoR-24](https://iccor.cust.edu.pk/)).  
 
 If you are looking for research collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
 
