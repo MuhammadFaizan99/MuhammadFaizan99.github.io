@@ -22,5 +22,6 @@ redirect_from:
 
 - Coding
 - Listening to music
-- Reading books / watching scientific documentaries 
+- Watching scientific documentaries
+- Reading books
 - Playing cricket / volleyball (occasionally)
