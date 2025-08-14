@@ -22,6 +22,7 @@ redirect_from:
 - **Project Lead:** *Industry-based FYP*, [AIIT Solutions](https://aiitsolutions.com/), [UET Taxila](https://www.uettaxila.edu.pk) — *2021–2023*  
 - **Volunteer:** *[Umeed-E-Subh (A Struggle for a Literate Pakistan)](https://www.linkedin.com/company/umeed-e-subh-uet-taxila/?originalSubdomain=pk)*, [UET Taxila](https://www.uettaxila.edu.pk) — *2019–2021*  
 - **Event Manager:** *Enlightening the Darkness*, a project by [ALMS 360](https://alms360.org/) — *2019–2021*
+- **Executive Member:** *[Society for Traffic & Road Safety (STARS)](https://www.linkedin.com/company/society-for-traffic-road-safety-stars-uet-taxila/posts/?feedView=all)*, [UET Taxila](https://www.uettaxila.edu.pk) — *2019–2021* 
 
 ## Scholarships and Grants
 
