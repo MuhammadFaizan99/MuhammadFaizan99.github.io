@@ -51,7 +51,7 @@
     {% endif %}
 
     <p class="archive__item-title">
-      {{ title }}
+      <strong>{{ forloop.index }}.</strong> {{ title }}
     </p>
 
     {% if post.read_time %}
