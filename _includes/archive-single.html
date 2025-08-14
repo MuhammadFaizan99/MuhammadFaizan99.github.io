@@ -50,7 +50,7 @@
       </div>
     {% endif %}
 
-    <p class="archive__item-title" style="margin-bottom:0;">
+    <p style="margin-bottom:0;">
       {{ include.index | default: forloop.index }}. {{ title }}
       {% if show_downloads %}
         {% assign links = "" %}
