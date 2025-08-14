@@ -50,7 +50,7 @@
       </div>
     {% endif %}
 
-    <p style="margin-bottom:0;">
+    <p class="archive__item-title" style="margin-bottom:0;">
       {{ include.index | default: forloop.index }}. {{ title }}
       {% if show_downloads %}
         {% assign links = "" %}
@@ -70,14 +70,14 @@
     </p>
 
     {% if post.citation and is_active == false %}
-      <p class="archive__item-authors" style="margin:0.15rem 0 0 0; font-size:0.95em;">
+      <p class="archive__item-authors" style="margin:0.15rem 0 0 0; font-size:0.95em; font-style:italic;">
         {{ post.citation }}
       </p>
     {% endif %}
 
     {% if post.collection == 'publications' %}
-      <p class="archive__item-venue" style="margin:0.15rem 0 0 0; font-size:0.9em;">
-        <i>{{ post.venue }}</i>{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
+      <p class="archive__item-venue" style="margin:0.15rem 0 0 0; font-size:0.9em; font-style:italic;">
+        {{ post.venue }}{% if post.date %}, {{ post.date | date: "%Y" }}{% endif %}
       </p>
     {% elsif post.collection == 'teaching' %}
       <p style="margin:0.15rem 0 0 0;">{{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}</p>
