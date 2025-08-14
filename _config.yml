@@ -82,7 +82,7 @@ publication_category:
   published:
     title: 'Published Articles'
   submitted:
-    title: 'Submitted Articles (In Progress)'    
+    title: 'Submitted Articles'    
   active:
     title: 'Active Research Projects'
 
