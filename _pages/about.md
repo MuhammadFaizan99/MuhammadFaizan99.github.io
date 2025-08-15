@@ -45,11 +45,9 @@ Libraries & Frameworks
 <li>SciPy</li>
 <li>Statsmodels</li>
 <li>Scikit-learn</li>
-<li>TensorFlow</li>
-<li>PyTorch</li>
-<li>Keras</li>
+<li>TensorFlow / Keras</li>
+<li>PyTorch / Torchvision</li>
 <li>OpenCV</li>
-<li>Torchvision</li>
 <li>NLTK</li>
 <li>SpaCy</li>
 <li>Transformers</li>
