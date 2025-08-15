@@ -16,7 +16,7 @@ If you are looking for research collaboration in any of these areas, please feel
   I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience, please check some of my interesting work [here](https://muhammadfaizan99.github.io/portfolio/) and if you need help [contact me](mailto:muhammadfaizandev87@gmail.com).
 <!-- </div> -->
 
-My Skillset
+Areas of Expertise
 ======
 
 <ul style="columns: 2;">
