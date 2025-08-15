@@ -32,6 +32,7 @@ My Skillset
 <li>Large Language Models</li>
 <li>JavaScript</li>
 <li>Cloud Platforms (Azure, GCP, AWS)</li>
+<li>Version Control (Git, GitHub)</li>
 </ul>
 
 Libraries & Frameworks
