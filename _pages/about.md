@@ -39,7 +39,7 @@ My Skillset
 Libraries & Frameworks
 ======
 
-<ul style="display:grid; grid-template-columns: repeat(2, minmax(0,1fr));">
+<ul style="columns: 2;">
   <li>Numpy</li>
   <li>Pandas</li>
   <li>Matplotlib / Seaborn</li>
