@@ -25,14 +25,14 @@ My Skillset
 <li>Computer Vision</li>
 <li>Epistemic Network Analysis</li>
 <li>Human–Computer Interaction</li>
-<li>Google Cloud Platform (GCP)</li>
+<li>MySQL & MongoDB</li>
 <li>Azure</li>
 <li>Data Science</li>
 <li>Deep Learning</li>
 <li>Natural Language Processing</li>
 <li>Large Language Models</li>
 <li>JavaScript</li>
-<li>MySQL & MongoDB</li>
+<li>Google Cloud Platform (GCP)</li>
 <li>AWS</li>
 </ul>
 
