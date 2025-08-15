@@ -40,21 +40,22 @@ Libraries & Frameworks
 <ul style="columns: 2;">
   <li>Numpy</li>
   <li>Matplotlib</li>
-  <li>SciPy</li>
-  <li>Scikit-learn</li>
-  <li>PyTorch / Torchvision</li>
-  <li>NLTK</li>
-  <li>React.js</li>
-  <li>Pandas</li>
-  <li>Seaborn</li>
   <li>Plotly</li>
   <li>Statsmodels</li>
   <li>TensorFlow / Keras</li>
   <li>OpenCV</li>
   <li>Node.js</li>
   <li>React Native</li>
+  <li>Pandas</li>
+  <li>Seaborn</li>
+  <li>SciPy</li>
+  <li>Scikit-learn</li>
+  <li>PyTorch / Torchvision</li>
+  <li>NLTK</li>
+  <li>React.js</li>
   <li>Flask</li>
 </ul>
+
 
 
 
