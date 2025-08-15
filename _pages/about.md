@@ -25,14 +25,15 @@ Areas of Expertise
 <li>Computer Vision</li>
 <li>Epistemic Network Analysis</li>
 <li>Human–Computer Interaction</li>
-<li>MySQL & MongoDB</li>
-<li>Version Control (Git, GitHub)</li>
+<li>JavaScript</li>
+<li>Cloud Platforms (Azure, GCP, AWS)</li>
 <li>Data Science</li>
 <li>Deep Learning</li>
 <li>Natural Language Processing</li>
 <li>Large Language Models</li>
-<li>JavaScript</li>
-<li>Cloud Platforms (Azure, GCP, AWS)</li>
+<li>Full-Stack Development</li>
+<li>MySQL & MongoDB</li>
+<li>Version Control (Git, GitHub)</li>
 </ul>
 
 Libraries & Frameworks
