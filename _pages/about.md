@@ -39,23 +39,27 @@ My Skillset
 Libraries & Frameworks
 ======
 
-<ul style="columns: 2;">
+Libraries & Frameworks
+======
+
+<ul style="display:grid; grid-template-columns: repeat(2, minmax(0,1fr)); gap:.25rem; list-style: disc; padding-left:20px;">
   <li>Numpy</li>
+  <li>Pandas</li>
   <li>Matplotlib / Seaborn</li>
+  <li>Plotly</li>
   <li>SciPy</li>
+  <li>Statsmodels</li>
   <li>Scikit-learn</li>
+  <li>TensorFlow / Keras</li>
   <li>PyTorch / Torchvision</li>
   <li>OpenCV</li>
-  <li>React.js</li>
-  <li>Pandas</li>
-  <li>Plotly</li>
-  <li>Statsmodels</li>
-  <li>TensorFlow / Keras</li>
   <li>NLTK</li>
+  <li>React.js</li>
   <li>Node.js</li>
   <li>React Native</li>
   <li>Flask</li>
 </ul>
+
 
 ---
 
