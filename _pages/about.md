@@ -20,25 +20,49 @@ My Skillset
 ======
 
 <ul style="columns: 2;">
-<li>Python & Libraries</li>
+<li>Python</li>
 <li>Machine Learning</li>
 <li>Computer Vision</li>
 <li>Epistemic Network Analysis</li>
 <li>Human–Computer Interaction</li>
-<li>Node.js</li>
-<li>Flask</li>
-<li>React Native</li>
 <li>Azure</li>
 <li>Data Science</li>
 <li>Deep Learning</li>
 <li>Natural Language Processing</li>
 <li>Large Language Models</li>
 <li>JavaScript</li>
-<li>React.js</li>
 <li>MySQL & MongoDB</li>
 <li>Google Cloud Platform (GCP)</li>
 <li>AWS</li>
 </ul>
+
+Libraries & Frameworks
+======
+
+<ul style="columns: 2;">
+<li>Numpy</li>
+<li>Pandas</li>
+<li>SciPy</li>
+<li>Statsmodels</li>
+<li>Scikit-learn</li>
+<li>TensorFlow</li>
+<li>PyTorch</li>
+<li>Keras</li>
+<li>OpenCV</li>
+<li>Torchvision</li>
+<li>NLTK</li>
+<li>SpaCy</li>
+<li>Transformers</li>
+<li>Matplotlib</li>
+<li>Seaborn</li>
+<li>Plotly</li>
+<li>Flask</li>
+<li>React Native</li>
+<li>React.js</li>
+<li>Node.js</li>
+</ul>
+
+---
 
 Education
 ======
