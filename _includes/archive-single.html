@@ -55,7 +55,7 @@
   {% if show_downloads %}
     {% assign links = "" %}
     {% if post.paperurl %}
-      {% assign links = links | append: '[Download Paper]' %}
+      {% assign links = links | append: '[Read Paper]' %}
       {% assign links = '<a href="' | append: post.paperurl | append: '">' | append: links | append: '</a>' %}
     {% endif %}
     {% if post.slidesurl %}
