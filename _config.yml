@@ -22,7 +22,7 @@ repository  : "MuhammadFaizan99/MuhammadFaizan99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "2+2+bg.JPG"
+  avatar           : "2+2+bg.jpg"
   name             : "Muhammad Faizan R.E."
   pronouns         : # add there
   bio              : "Computer Engineer & Machine Learning Researcher"
