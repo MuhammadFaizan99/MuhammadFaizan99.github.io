@@ -11,7 +11,7 @@ redirect_from:
 ## Certifications:
 
 - [**Machine Learning with Python** certification by freeCodeCamp](https://freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/machine-learning-with-python-v7).
-- [**freeCodeCamp logo Data Analysis with Python** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/data-analysis-with-python-v7).
+- [**Data Analysis with Python** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/data-analysis-with-python-v7).
 - **Python for Data Science, AI & Development** certification by IBM on Coursera.   
 - **Neural Networks and Deep Learning** certification by DeepLearning.AI on Coursera.
 - [**Responsible Conduct of Research (RCR) – Concise** certification by CITI Program](https://www.citiprogram.org/verify/?wb6c213f9-d3bb-4ae6-a0e0-3641674abc68-71594743).
