@@ -17,7 +17,7 @@ redirect_from:
 - [**Responsible Conduct of Research (RCR) – Concise** certification by CITI Program](https://www.citiprogram.org/verify/?wb6c213f9-d3bb-4ae6-a0e0-3641674abc68-71594743).
 - [**HSR – Social-Behavioral-Educational Researchers** certification by CITI Program](https://www.citiprogram.org/verify/?w68492d72-519b-4e0b-bd8a-6bfbf94be0ad-71594790).
 - **Legacy JavaScript Algorithms and Data Structures** certification by freeCodeCamp.
-- **[Front End Development Libraries** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/front-end-development-libraries).
+- [**Front End Development Libraries** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/front-end-development-libraries).
 - **Back End Development and APIs** certification by freeCodeCamp.
 - [**MERN dev specialist** certification by EVS-eVision Solutions](https://drive.google.com/file/d/1Vq_yaPOXdfCmPjcW1wjV79CW_KK2tBBV/view?usp=sharing).
 - [Certification for **Volunteering with UMEED-E-SUBH**](https://drive.google.com/file/d/1NYcA-aowOeHe32njHK3TpKrUucUHjtcd/view?usp=sharing).
