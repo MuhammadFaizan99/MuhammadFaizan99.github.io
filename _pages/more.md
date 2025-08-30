@@ -25,6 +25,8 @@ redirect_from:
 - [**MERN dev specialist** certification by EVS-eVision Solutions](https://drive.google.com/file/d/1Vq_yaPOXdfCmPjcW1wjV79CW_KK2tBBV/view?usp=sharing).
 - [Certification for **Volunteering with UMEED-E-SUBH**](https://drive.google.com/file/d/1NYcA-aowOeHe32njHK3TpKrUucUHjtcd/view?usp=sharing).
 - [**Microsoft Word** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/VUOJXXW83T6U).
+- [**Microsoft Excel** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/WDJTQ8ZSMA67).
+- [**Microsoft PowerPoint** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/C49J92TQTX3Y).
 - Certification for successfully organizing a **Python workshop**.  
 
 ## Hobbies and Interests:
