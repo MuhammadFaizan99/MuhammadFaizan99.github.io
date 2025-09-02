@@ -31,7 +31,7 @@ redirect_from:
 ## Digital Credentials/Badges:
 
 - **Artificial Intelligence Fundamentals** by IBM [[Verify]](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[[Badge]](https://drive.google.com/file/d/1BJ2__cqLBX_APlc8eMnljdhumWPHcMuq/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1hDRHuc345CNw55zq1VsMY3FosAwJTLJI/view?usp=sharing).
-- **Web Development Fundamentals** by IBM [[Verify]](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[[Badge]](https://drive.google.com/file/d/1BJ2__cqLBX_APlc8eMnljdhumWPHcMuq/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1hDRHuc345CNw55zq1VsMY3FosAwJTLJI/view?usp=sharing).
+- **Web Development Fundamentals** by IBM [[Verify]](https://www.credly.com/badges/1fc81edd-db2c-4cd2-8562-8893dd4ec81a/public_url)[[Badge]](https://drive.google.com/file/d/1_1c9AadzPby4AxRzFMFuVn9zZw74P8Ip/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1rX1rPA0cDarUJParp54-XN7Plw7uqfFk/view?usp=sharing).
 
 ## Hobbies and Interests:
 
