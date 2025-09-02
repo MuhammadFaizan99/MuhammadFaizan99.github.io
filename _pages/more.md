@@ -30,8 +30,8 @@ redirect_from:
 
 ## Digital Credentials/Badges:
 
-- **Artificial Intelligence Fundamentals** by IBM[[Verify]](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[[Badge]](https://drive.google.com/file/d/1BJ2__cqLBX_APlc8eMnljdhumWPHcMuq/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1hDRHuc345CNw55zq1VsMY3FosAwJTLJI/view?usp=sharing).
-- **Web Development Fundamentals** by IBM[[Verify]](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[[Badge]](https://drive.google.com/file/d/1BJ2__cqLBX_APlc8eMnljdhumWPHcMuq/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1hDRHuc345CNw55zq1VsMY3FosAwJTLJI/view?usp=sharing).
+- **Artificial Intelligence Fundamentals** by IBM [[Verify]](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[[Badge]](https://drive.google.com/file/d/1BJ2__cqLBX_APlc8eMnljdhumWPHcMuq/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1hDRHuc345CNw55zq1VsMY3FosAwJTLJI/view?usp=sharing).
+- **Web Development Fundamentals** by IBM [[Verify]](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[[Badge]](https://drive.google.com/file/d/1BJ2__cqLBX_APlc8eMnljdhumWPHcMuq/view?usp=sharing)[[Certificate]](https://drive.google.com/file/d/1hDRHuc345CNw55zq1VsMY3FosAwJTLJI/view?usp=sharing).
 
 ## Hobbies and Interests:
 
