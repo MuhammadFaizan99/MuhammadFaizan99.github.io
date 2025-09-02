@@ -28,7 +28,7 @@ redirect_from:
 - [**Microsoft PowerPoint** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/C49J92TQTX3Y).
 - Certification for successfully organizing a **Python workshop**.
 
-## Certifications:
+## Digital Credentials/Badges:
 
 - [**Artificial Intelligence Fundamentals** by IBM](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url) [**Badge**] [**Certificate**].
 
