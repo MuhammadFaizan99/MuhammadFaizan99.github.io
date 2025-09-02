@@ -30,7 +30,7 @@ redirect_from:
 
 ## Certifications:
 
-- [**Artificial Intelligence Fundamentals** by IBM](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url)[**Badge**] [**Certificate**].
+- [**Artificial Intelligence Fundamentals** by IBM](https://www.credly.com/badges/b21202fb-1b5d-4428-941d-8cf181332f7d/public_url) [**Badge**] [**Certificate**].
 
 ## Hobbies and Interests:
 
