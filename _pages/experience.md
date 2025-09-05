@@ -15,10 +15,10 @@ redirect_from:
   **Duration:** March 2025 – Contd.  
     “Working virtually under [Dr. Ali Raza](https://aliraza.org/) in the **EdTech Partnership Lab**, particularly focusing on analyzing large-scale textual data (student transcriptions) to study cognitive thinking and social interactions within classroom settings. This involves learning analytics, epistemic network analysis, NLP, and the use of LLMs.”
 
-* **Hactric Solutions (Pvt) Ltd.** – Technology Incubation Centre (TIC), Islamabad  
+* **Hactric Solutions (Pvt) Ltd.** – Technology Incubation Centre (TIC), NUST, Islamabad  
   * **ML & Web Researcher**  
   **Duration:** February 2024 – Contd.  
-    “As a researcher there, I am conducting research in machine learning and web development, with a current focus on developing an ecosystem of AI-based applications for the [C5M (Continent 5 Media)](http://c5m.world.s3-website-us-east-1.amazonaws.com/), which includes D2P, Eksplode, eMoney, and more, at the Technology Incubation Centre (TIC) at [NUST]([https://nust.edu.pk/]), one of Pakistan’s leading universities.”
+    “As a researcher there, I am conducting research in machine learning and web development, with a current focus on developing an ecosystem of AI-based web applications for the [C5M (Continent 5 Media)](http://c5m.world.s3-website-us-east-1.amazonaws.com/), which includes D2P, Eksplode, eMoney, and more. My role focuses on building and integrating ML-driven recommendation systems, RESTful/third-party APIs, and real-time data analytics dashboards.”
 
 * **UET Taxila** – Taxila, Pakistan  
   * **Applied ML Researcher**  
