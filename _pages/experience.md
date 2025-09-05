@@ -28,4 +28,4 @@ redirect_from:
 * **Rozi Academy** – Rawalpindi, Pakistan  
   * **ML Engineer**  
   **Duration:** March 2023 – January 2024  
-    “Applied machine learning to develop models for recommendation systems, predictive analytics, and user insights, creating data-driven solutions that enhanced intelligent decision-making and user personalization.”
+    “As part of the modeling team, I was responsible for designing, developing, and integrating machine learning–based recommendation systems and engines into the company’s SaaS-based platforms. There, I mostly dealt with data preprocessing, model training, optimization, CI/CD pipelines, and deployment.”
