@@ -12,9 +12,9 @@ site_theme  : "default"
 title       : "Muhammad Faizan"
 title_separator: "-"
 name        : &name "Muhammad Faizan"
-description : &description "ML/NLP — AI for healthcare"
-url         : "https://MuhammadFaizan99.github.io"   # <-- YOUR URL (quoted)
-baseurl     : ""                                      # <-- keep empty for a user site
+description : &description "Computer Engineer | Researcher"
+url         : "https://MuhammadFaizan99.github.io"   
+baseurl     : ""                                    
 repository  : "MuhammadFaizan99/MuhammadFaizan99.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -25,7 +25,7 @@ author:
   avatar           : "2+2.JPG"
   name             : "Muhammad Faizan R.E."
   pronouns         : # add there
-  bio              : "Computer Engineer & Machine Learning Researcher"
+  bio              : "Computer Engineer | Researcher"
   location         : "Rawalpindi, Pakistan"
   employer         : "UET Taxila"
   uri              : # URL
