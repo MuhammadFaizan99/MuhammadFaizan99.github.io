@@ -5,5 +5,5 @@ category: published
 date: 2024-01-01
 venue: 'International Journal of Innovations in Science and Technology (IJIST)'
 paperurl: "/files/applying-ml-cross-sectional-strength.pdf"
-citation: 'Salman, M., <b>Faizan, M.</b>, Noman, M., & Salati, M.'
+citation: 'Salman, M., <b>Faizan, M.,</b> Noman, M., & Salati, M.'
 ---
