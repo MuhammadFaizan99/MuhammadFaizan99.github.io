@@ -3,7 +3,7 @@ title: "The Intersection of Criticalities in First-Generation College Students' 
 collection: publications
 category: submitted
 date: 2025-01-01
-venue: "Submitted - Educational Researcher (ER)"
+venue: "Submitted - Journal of Research in Science Teaching (JRST)"
 paperurl: ""
 citation: "Parekh, P., Gray, R., Raza, A., <b>Faizan, M.</b>"
 ---
