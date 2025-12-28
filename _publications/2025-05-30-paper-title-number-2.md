@@ -5,5 +5,5 @@ category: submitted
 date: 2025-01-01
 venue: 'Submitted'
 paperurl: ""
-citation: '<b>Faizan, M.</b>, Salman, M., & Noman, M.'
+citation: '<b>Faizan, M.,</b> Salman, M., & Noman, M.'
 ---
