@@ -1,7 +1,7 @@
 ---
 title: "Classification of Pakistani Bricks using vision-based machine learning algorithms"
 collection: publications
-category: submitted
+category: published
 date: 2025-01-01
 venue: 'Submitted'
 paperurl: ""
