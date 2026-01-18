@@ -1,8 +1,5 @@
 ---
-title: "**Piquant Catering**"
-excerpt: "Web application for Piquant Catering, showcasing extraordinary culinary artistry for life's most meaningful celebrations. The platform highlights bespoke menus, seasonal ingredients, and beautifully curated presentations for weddings, corporate events, and private gatherings."
-header:
-  teaser: /images/Catering.PNG 
-preview: "https://www.piquantcatering.com/"
+title: "**D2p – Book Selling Platform**"
+preview: "https://d2p.web.s3-website-us-east-1.amazonaws.com/"
 collection: portfolio
 ---
