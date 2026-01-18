@@ -1,5 +1,5 @@
 ---
-title: "**D2p – Book Selling Platform**"
-preview: "https://d2p.web.s3-website-us-east-1.amazonaws.com/"
+title: "**Piquant Catering**"
+preview: "https://www.piquantcatering.com/"
 collection: portfolio
 ---
