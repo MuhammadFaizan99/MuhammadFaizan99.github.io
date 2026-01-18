@@ -1,5 +1,5 @@
 ---
-title: "**Eksplode – Ecommerce Platform (Admin-Panel)**"
-preview: "https://eksplode.admin.s3-website-us-east-1.amazonaws.com/"
+title: "**Imaan for Jannah**"
+preview: "https://www.imaanforjannah.com/"
 collection: portfolio
 ---
