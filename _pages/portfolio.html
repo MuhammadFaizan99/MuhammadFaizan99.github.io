@@ -7,8 +7,15 @@ author_profile: true
 
 {% include base_path %}
 
+<ul>
+  {% for post in site.portfolio %}
+    {% assign clean_title = post.title | markdownify | strip_html | strip %}
 
-{% for post in site.portfolio %}
-  {% include archive-single.html %}
-{% endfor %}
-
+    <li>
+      {{ clean_title }}
+      {% if post.preview %}
+        <a href="{{ post.preview }}" target="_blank" rel="noopener noreferrer">[Live Demo]</a>
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
