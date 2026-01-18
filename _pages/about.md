@@ -7,13 +7,11 @@ redirect_from:
   - /about.html
 ---
 
-I’m a **data-driven researcher** who loves turning messy, real-world data into reliable solutions. My inspiration comes from how structured/unstructured data can be transformed into impactful outcomes that create real improvement, much like artisans turning ordinary materials into spectacular works of art. My research interests lean more toward the experimental side of machine learning systems, where I develop data-driven methods to solve real-world problems in engineering and healthcare domains.  
+I’m an AI researcher, engineer, and full-stack web & mobile app developer with over 3 years of combined industry and research experience. I love to turn messy, real-world data into reliable solutions. My inspiration comes from how structured and unstructured data can be transformed into impactful outcomes that create real improvement, much like artisans turning ordinary materials into spectacular works of art. I’ve worked on the experimental side of machine learning systems, where I develop data-driven methods to solve real-world problems. My skills include Python and its core libraries, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, and Large Language Models (LLMs). I have **5 publications**, **multiple journal submissions**, and **conference presentations** (e.g., [OES-2025](https://www.uis.no/en/research/events/technology-and-natural-sciences/2nd-olympiad-in-engineering-science-oes-2025), [ICCoR-24](https://iccor.cust.edu.pk/)). Additionally, I have developed 60+ open-source models on [Kaggle](https://www.kaggle.com/muhammadfaizan65/code).  
 
-More recently, I have expanded my work into the education sector, dealing mostly with textual data (student–teacher transcripts) to study discourse, cognitive thinking, and social interactions within classroom settings. I have over **3 years** of combined industry and research experience, with **4 publications**, **several journal submissions**, and **conference presentations** (e.g., [OES-2025](https://www.uis.no/en/research/events/technology-and-natural-sciences/2nd-olympiad-in-engineering-science-oes-2025), [ICCoR-24](https://iccor.cust.edu.pk/)).
+In addition to this, I have built scalable applications using React.js, Node.js, Express.js, Next.js, React Native, FastAPI, and Flask, with MongoDB, MySQL, and PostgreSQL. My focus areas include UI/UX design, RESTful APIs, third-party API integrations, authentication and authorization mechanisms, state management tools (Redux Toolkit and Redux Saga), Lambda and serverless functions, debouncing techniques, webhooks, MongoDB pipelines and aggregations, and cloud platforms such as Hostinger VPS, GCP, AWS, and Azure.
 
-If you are looking for research collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).  
-
-  I’m also a **full-stack web and mobile app developer** (Android & iOS) with years of experience, please check some of my interesting work [here](https://muhammadfaizan99.github.io/portfolio/) and if you need help [contact me](mailto:muhammadfaizandev87@gmail.com).
+If you are looking for research collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).
 <!-- </div> -->
 
 Areas of Expertise
