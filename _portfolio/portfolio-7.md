@@ -1,5 +1,5 @@
 ---
-title: "**eMoney – Digital Currency Platform**"
-preview: "https://eksplode.code.s3-website-us-east-1.amazonaws.com/"
+title: "**Africa Commerce Platform**"
+preview: "https://africa-ecommerce-frontend.vercel.app/"
 collection: portfolio
 ---
