@@ -24,7 +24,7 @@ Areas of Expertise
 <li>Epistemic Network Analysis</li>
 <li>Human–Computer Interaction</li>
 <li>JavaScript</li>
-<li>Cloud Platforms (Azure, GCP, AWS)</li>
+<li>Cloud Platforms</li>
 <li>Data Science</li>
 <li>Deep Learning</li>
 <li>Natural Language Processing</li>
