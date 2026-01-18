@@ -1,8 +1,5 @@
 ---
-title: "**Yaras Kitchen**"
-excerpt: "Elegant Egyptian catering website highlighting bespoke menus, refined event experiences, and effortless booking for weddings, private gatherings, and corporate events."
-header:
-  teaser: /images/yaras-kitchen-hero.PNG  
-preview: "https://www.yaraskitchen.com/"
+title: "**D2p – Book Selling Platform (Admin-Panel)**"
+preview: "https://d2p.admin.s3-website-us-east-1.amazonaws.com/"
 collection: portfolio
 ---
