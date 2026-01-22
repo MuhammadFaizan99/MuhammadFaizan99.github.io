@@ -1,5 +1,5 @@
 ---
 title: "**Sidekig AI Side-Hustle Project**"
-preview: "https://www.piquantcatering.com/"
+preview: "https://www.sidekig.com/"
 collection: portfolio
 ---
