@@ -1,5 +1,5 @@
 ---
-title: "Classification of Pakistani Bricks using vision-based machine learning algorithms"
+title: "Classification of clay bricks using vision-based machine learning algorithms"
 collection: publications
 category: published
 date: 2026-01-27
