@@ -30,7 +30,7 @@ redirect_from:
   **Duration:** March 2023 – January 2024  
     “As part of the modeling team, I was responsible for designing, developing, and integrating machine learning–based recommendation systems and engines into the company’s SaaS-based platforms. There, I mostly dealt with data preprocessing, model training, optimization, CI/CD pipelines, and deployment.”
 
-    * **Karobar Solutions LLC** – Islamabad, Pakistan  
+* **Karobar Solutions LLC** – Islamabad, Pakistan  
   * **Intern Full-Stack Developer**  
   **Duration:** October 2022 – December 2022  
     “Designed and developed a demo e-commerce web application using the MERN stack, implementing product listings, user authentication, shopping cart functionality, and order management.”
