@@ -82,7 +82,9 @@ publication_category:
   published:
     title: 'Published Articles'
   submitted:
-    title: 'Submitted Articles'    
+    title: 'Submitted Articles'
+  theses:
+    title: 'Academic Theses'
   active:
     title: 'Active Research Projects'
 
