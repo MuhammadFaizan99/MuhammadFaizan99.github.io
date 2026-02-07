@@ -36,6 +36,11 @@
   {% assign is_active = true %}
 {% endif %}
 
+{% assign is_thesis = false %}
+{% if cat_str contains "theses" or cat_str contains "thesis" %}
+  {% assign is_thesis = true %}
+{% endif %}
+
 {% assign show_downloads = true %}
 {% if is_submitted or is_active %}
   {% assign show_downloads = false %}
