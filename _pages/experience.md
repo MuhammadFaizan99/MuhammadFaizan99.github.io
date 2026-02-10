@@ -13,7 +13,7 @@ redirect_from:
 * **Grand Valley State University** – Allendale, MI, USA  
   * **Research Assistant**  
   **Duration:** March 2025 – Contd.  
-    “Working virtually under [Dr. Ali Raza](https://aliraza.org/) in the **EdTech Partnership Lab**, particularly focusing on analyzing large-scale textual data (student–teacher transcripts) to study discourse, cognitive thinking, and social interactions within classroom settings. This involves human-centered data science, learning analytics, epistemic network analysis, and the application of NLP and LLMs.”
+    “Working remotely under [Dr. Ali Raza](https://aliraza.org/) in the **EdTech Partnership Lab**, particularly focusing on analyzing large-scale textual data (student–teacher transcripts) to study discourse, cognitive thinking, and social interactions within classroom settings. This involves human-centered data science, learning analytics, epistemic network analysis, and the application of NLP and LLMs.”
 
 * **Hactric Solutions (Pvt) Ltd.** – Islamabad, Pakistan  
   * **ML & Web Researcher**  
