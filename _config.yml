@@ -32,9 +32,10 @@ author:
   email            : "muhammadfaizandev87@gmail.com" 
 
   # Academic websites
-  academia         : "https://linktr.ee/muhammadfaizandev"
-  arxiv            : "https://linktr.ee/muhammadfaizandev"
+  academia         : 
+  arxiv            : 
   linkedin         : "muhammad-faizan-dev-0461b1192"
+  linktree         : "https://linktr.ee/muhammadfaizandev"
   googlescholar    : "https://scholar.google.com/citations?user=fMB1t-0AAAAJ&hl=en"
   inspire-hep      : # URL
   impactstory      : # URL
