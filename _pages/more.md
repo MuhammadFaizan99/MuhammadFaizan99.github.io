@@ -39,4 +39,4 @@ redirect_from:
 - Listening to music
 - Watching scientific documentaries
 - Reading books
-- Playing cricket / volleyball (occasionally)
+- Playing cricket / volleyball
