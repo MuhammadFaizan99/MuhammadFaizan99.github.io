@@ -7,11 +7,24 @@ redirect_from:
   - /about.html
 ---
 
-I’m an AI researcher, engineer, and full-stack web & mobile app developer with over **3 years** of combined industry and research experience. I’ve worked on the experimental side of machine learning systems, where I develop data-driven methods to solve real-world problems. My skills include Python and its core libraries, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, and Large Language Models (LLMs). I have **6 publications**, **multiple journal submissions**, and **conference presentations** (e.g., [OES-2025](https://www.uis.no/en/research/events/technology-and-natural-sciences/2nd-olympiad-in-engineering-science-oes-2025), [ICCoR-24](https://iccor.cust.edu.pk/)). Additionally, I have developed 60+ open-source models on [Kaggle](https://www.kaggle.com/muhammadfaizan65/code).  
+◆ 3+ Years of Industry & Research Experience
+◆ 6 Peer-Reviewed AI Publications
+◆ 60+ Open-Source ML Models
+◆ 30+ Production-Ready Applications
 
-In addition to this, I have built scalable applications using React.js, Node.js, Express.js, Next.js, React Native, FastAPI, and Flask, with MongoDB and MySQL. My focus areas include UI/UX design, RESTful APIs, third-party API integrations, authentication and authorization mechanisms, state management tools, CI/CD pipelines, Lambda and serverless functions, debouncing techniques, webhooks, MongoDB pipelines and aggregations, and cloud platforms such as Hostinger VPS, GCP, AWS, and Azure.
+1️⃣ 𝗔𝗜 / 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚:
 
-If you are looking for research collaboration in any of these areas, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).
+I specialize in developing end-to-end AI and machine learning solutions, handling the entire project lifecycle from data preparation to model deployment. My research focuses on the applied side of machine learning, where I develop data-driven methods to solve real-world problems. 
+
+My skillset includes, but is not limited to, Python and its core libraries, Data Science, Machine Learning, Deep Learning, Computer Vision, NLP, and Large Language Models (LLMs).
+
+2️⃣ 𝗙𝗨𝗟𝗟-𝗦𝗧𝗔𝗖𝗞 𝗗𝗘𝗩𝗘𝗟𝗢𝗣𝗠𝗘𝗡𝗧:
+
+I specialize in building scalable web applications using the MERN tech stack and cross-platform mobile applications using React Native, managing the complete end-to-end development lifecycle.
+
+My skillset includes, but is not limited to, developing responsive and modern frontend architectures with React/React Native, secure Node.js/Express backend systems, and efficient database designs using MongoDB and MySQL. I also implement RESTful APIs and third-party integrations, secure authentication systems (JWT, OAuth), role-based access control (RBAC), and cloud deployment for production-ready solutions.
+
+If you are looking for research collaboration, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).
 <!-- </div> -->
 
 Areas of Expertise
