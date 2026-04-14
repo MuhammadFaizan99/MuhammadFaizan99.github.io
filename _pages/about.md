@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Welcome to my Page"
 author_profile: true
 redirect_from: 
   - /about/
