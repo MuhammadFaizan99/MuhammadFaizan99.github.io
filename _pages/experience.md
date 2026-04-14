@@ -23,7 +23,7 @@ redirect_from:
 * **UET Taxila** – Taxila, Pakistan  
   * **Applied ML Researcher**  
   **Duration:** December 2021 – Contd.  
-    “Applied machine learning techniques across engineering and medical fields to develop advanced predictive models and analytical tools, enhancing accuracy, efficiency, and informed decision-making in complex interdisciplinary research projects.”
+    “Handling end-to-end data pipelines, from data collection to developing machine learning and deep learning models in complex interdisciplinary research projects to solve real-world problems.”
 
 * **Rozi Academy** – Rawalpindi, Pakistan  
   * **ML Engineer**  
