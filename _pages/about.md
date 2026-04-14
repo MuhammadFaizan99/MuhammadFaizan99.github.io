@@ -7,10 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-◆ 3+ Years of Industry & Research Experience
-◆ 6 Peer-Reviewed AI Publications
-◆ 60+ Open-Source ML Models
-◆ 30+ Production-Ready Applications
+- 3+ Years of Industry & Research Experience  
+- 6 Peer-Reviewed AI Publications  
+- 60+ Open-Source ML Models  
+- 30+ Production-Ready Applications
 
 1️⃣ 𝗔𝗜 / 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚:
 
