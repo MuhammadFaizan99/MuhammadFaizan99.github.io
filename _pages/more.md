@@ -36,7 +36,6 @@ redirect_from:
 - [**Microsoft Word** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/VUOJXXW83T6U).
 - [**Microsoft Excel** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/WDJTQ8ZSMA67).
 - [**Microsoft PowerPoint** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/C49J92TQTX3Y).
-- Certification for successfully organizing a **Python workshop**.
 
 ## Digital Credentials/Badges:
 
