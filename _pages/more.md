@@ -10,6 +10,14 @@ redirect_from:
 
 ## Certifications:
 
+- [**Intro to Programming** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intro-to-programming).
+- [**Python** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/python).
+- [**Intro to Machine Learning** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intro-to-machine-learning).
+- [**Intermediate Machine Learning** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intermediate-machine-learning).
+- [**Machine Learning Explainability** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/machine-learning-explainability).
+- [**Intro to Deep Learning** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intro-to-deep-learning).
+- [**Computer Vision** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/computer-vision).
+- [**Intro to AI Ethics** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intro-to-ai-ethics).
 - [**Machine Learning with Python** certification by freeCodeCamp](https://freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/machine-learning-with-python-v7).
 - [**Data Analysis with Python** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/data-analysis-with-python-v7).
 - [**Data Visualization** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/data-visualization).
@@ -21,6 +29,8 @@ redirect_from:
 - [**JavaScript Algorithms and Data Structures** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/javascript-algorithms-and-data-structures).
 - [**Front End Development Libraries** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/front-end-development-libraries).
 - [**Back End Development and APIs** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/back-end-development-and-apis).
+- [**Advanced SQL** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/advanced-sql).
+- [**Intro to SQL** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intro-to-sql).
 - [**MERN dev specialist** certification by EVS-eVision Solutions](https://drive.google.com/file/d/1Vq_yaPOXdfCmPjcW1wjV79CW_KK2tBBV/view?usp=sharing).
 - [Certification for **Volunteering with UMEED-E-SUBH**](https://drive.google.com/file/d/1NYcA-aowOeHe32njHK3TpKrUucUHjtcd/view?usp=sharing).
 - [**Microsoft Word** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/VUOJXXW83T6U).
