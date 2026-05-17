@@ -10,7 +10,8 @@ redirect_from:
 - **3+ Years** of Industry & Research Experience  
 - **7 Peer-Reviewed** AI Publications  
 - **60+ Open-Source** ML Models  
-- **30+ Production-Ready** Applications  
+- **30+ Production-Ready** Applications
+- **20+** Professional Certifications
 
 1️⃣ 𝗔𝗜 / 𝗠𝗔𝗖𝗛𝗜𝗡𝗘 𝗟𝗘𝗔𝗥𝗡𝗜𝗡𝗚:
 
