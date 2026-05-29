@@ -22,7 +22,7 @@ redirect_from:
 
 * **Grand Valley State University** – Allendale, MI, USA  
   * **Research Assistant**  
-  **Duration:** March 2025 – February 2026 
+  **Duration:** March 2025 – February 2026
     “Worked remotely under Dr. Ali Raza in the EdTech Partnership Lab, leading weekly discussions and presentations on Learning Analytics and Artificial Intelligence in Education (AIED). Also practiced and applied novel data analysis approaches, such as Epistemic Network Analysis (ENA), on textual data to study classroom discourse.”
 
 * **Rozi Academy** – Rawalpindi, Pakistan  
