@@ -21,8 +21,8 @@ redirect_from:
     “Handling end-to-end data pipelines, from data collection to developing machine learning and deep learning models in complex interdisciplinary research projects to solve real-world problems.”
 
 * **Grand Valley State University** – Allendale, MI, USA  
-  * **Research Assistant**
-  **Duration:** March 2025 – February 2026
+  * **Research Assistant**  
+  **Duration:** March 2025 – February 2026 
     “Worked remotely under Dr. Ali Raza in the EdTech Partnership Lab, leading weekly discussions and presentations on Learning Analytics and Artificial Intelligence in Education (AIED). Also practiced and applied novel data analysis approaches, such as Epistemic Network Analysis (ENA), on large-scale educational textual data to study discourse, cognitive thinking, and social interactions.”
 
 * **Rozi Academy** – Rawalpindi, Pakistan  
