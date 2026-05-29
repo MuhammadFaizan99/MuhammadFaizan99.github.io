@@ -10,20 +10,20 @@ redirect_from:
 {% include base_path %}
 
 
-* **Grand Valley State University** – Allendale, MI, USA  
-  * **Research Assistant**  
-  **Duration:** March 2025 – Contd.  
-    “Working remotely under [Dr. Ali Raza](https://aliraza.org/) in the **EdTech Partnership Lab**, particularly focusing on analyzing large-scale textual data (student–teacher transcripts) to study discourse, cognitive thinking, and social interactions within classroom settings. This involves human-centered data science, learning analytics, epistemic network analysis, and the application of NLP and LLMs.”
-
 * **Hactric Solutions (Pvt) Ltd.** – Islamabad, Pakistan  
   * **ML & Web Researcher**  
   **Duration:** February 2024 – Contd.  
-    “As a researcher there, I am conducting research in machine learning and web development, with a current focus on developing an ecosystem of AI-based web applications for the [C5M (Continent 5 Media)](http://c5m.world.s3-website-us-east-1.amazonaws.com/), which includes D2P, Eksplode, eMoney, and more. My role focuses on building and integrating ML-driven recommendation systems, RESTful/third-party APIs, and real-time data analytics dashboards.”
+    “As a researcher there, I am conducting research in machine learning and web development, with a current focus on developing an ecosystem of AI-based web applications for the C5M (Continent 5 Media), which includes D2P, Eksplode, eMoney, and more. My role focuses on building and integrating ML-driven recommendation systems, RESTful/third-party APIs, and real-time data analytics dashboards.”
 
 * **UET Taxila** – Taxila, Pakistan  
   * **Applied ML Researcher**  
   **Duration:** December 2021 – Contd.  
     “Handling end-to-end data pipelines, from data collection to developing machine learning and deep learning models in complex interdisciplinary research projects to solve real-world problems.”
+
+* **Grand Valley State University** – Allendale, MI, USA  
+  * **Research Assistant**  
+  **Duration:** March 2025 – February 2026 
+    “Worked remotely under Dr. Ali Raza in the EdTech Partnership Lab, leading weekly discussions and presentations on Learning Analytics and Artificial Intelligence in Education (AIED). Also practiced and applied novel data analysis approaches, such as Epistemic Network Analysis (ENA), on large-scale educational textual data to study discourse, cognitive thinking, and social interactions.”
 
 * **Rozi Academy** – Rawalpindi, Pakistan  
   * **ML Engineer**  
