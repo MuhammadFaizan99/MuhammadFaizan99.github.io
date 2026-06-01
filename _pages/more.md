@@ -31,7 +31,6 @@ redirect_from:
 - [**Back End Development and APIs** certification by freeCodeCamp](https://www.freecodecamp.org/certification/fcc67cd55f9-c36a-4a22-8abf-c691d82cc511/back-end-development-and-apis).
 - [**Advanced SQL** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/advanced-sql).
 - [**Intro to SQL** certification by Kaggle](https://www.kaggle.com/learn/certification/muhammadfaizan65/intro-to-sql).
-- [**MERN dev specialist** certification by EVS-eVision Solutions](https://drive.google.com/file/d/1Vq_yaPOXdfCmPjcW1wjV79CW_KK2tBBV/view?usp=sharing).
 - [**Microsoft Word** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/VUOJXXW83T6U).
 - [**Microsoft Excel** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/WDJTQ8ZSMA67).
 - [**Microsoft PowerPoint** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/C49J92TQTX3Y).
