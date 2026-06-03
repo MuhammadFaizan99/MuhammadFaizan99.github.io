@@ -34,7 +34,8 @@ redirect_from:
 - [**Microsoft Word** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/VUOJXXW83T6U).
 - [**Microsoft Excel** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/WDJTQ8ZSMA67).
 - [**Microsoft PowerPoint** certification by Coursera Project Network on Coursera](https://www.coursera.org/account/accomplishments/verify/C49J92TQTX3Y).
-- [**Volunteering** certification by UMEED-E-SUBH](https://drive.google.com/file/d/1NYcA-aowOeHe32njHK3TpKrUucUHjtcd/view?usp=sharing).
+- [**Volunteer Certificate** (Umeed-e-Subh, UET Taxila)](https://drive.google.com/file/d/1NYcA-aowOeHe32njHK3TpKrUucUHjtcd/view?usp=sharing).
+- [**Volleyball Runner-Up Certificate** (Annual Sports Week 2021–22, UET Taxila)](https://drive.google.com/file/d/1NYcA-aowOeHe32njHK3TpKrUucUHjtcd/view?usp=sharing).
 
 ## Digital Credentials/Badges:
 
