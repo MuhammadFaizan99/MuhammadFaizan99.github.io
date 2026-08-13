@@ -78,6 +78,10 @@ Libraries & Frameworks
 Education
 ======
 
+**M.Sc. Computer Science (Data Science Track)**  
+EURECOM, Biot, France  
+2026–Present
+
 **B.Sc. in Computer Engineering**  
 University of Engineering & Technology (UET), Taxila, Pakistan  
 2019–2023
