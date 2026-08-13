@@ -12,12 +12,12 @@ redirect_from:
 
 * **Hactric Solutions (Pvt) Ltd.** – Islamabad, Pakistan  
   * **ML & Web Researcher**  
-  **Duration:** February 2024 – Contd.  
+  **Duration:** February 2024 – August 2026  
     “As a researcher there, I am conducting research in machine learning and web development, with a current focus on developing an ecosystem of AI-based web applications for the C5M (Continent 5 Media), which includes D2P, Eksplode, eMoney, and more. My role focuses on building and integrating ML-driven recommendation systems, RESTful/third-party APIs, and real-time data analytics dashboards.”
 
 * **UET Taxila** – Taxila, Pakistan  
   * **Applied ML Researcher**  
-  **Duration:** December 2021 – Contd.  
+  **Duration:** December 2021 – August 2026   
     “Handling end-to-end data pipelines, from data collection to developing machine learning and deep learning models in complex interdisciplinary research projects to solve real-world problems.”
 
 * **Grand Valley State University** – Allendale, MI, USA  
