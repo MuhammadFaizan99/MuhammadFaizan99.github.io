@@ -25,7 +25,7 @@ I specialize in building scalable web applications using the MERN tech stack and
 
 My skillset includes, but is not limited to, developing responsive and modern frontend architectures with React/React Native, secure Node.js/Express backend systems, and efficient database designs using MongoDB and MySQL. I also implement RESTful APIs and third-party integrations, secure authentication systems (JWT, OAuth), role-based access control (RBAC), and cloud deployment for production-ready solutions.
 
-If you are looking for research collaboration, please feel free to [contact me](mailto:muhammadfaizandev87@gmail.com).
+Currently, I’m pursuing my Master’s at EURECOM.
 <!-- </div> -->
 
 Areas of Expertise
