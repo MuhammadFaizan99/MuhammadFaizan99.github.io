@@ -24,8 +24,11 @@ redirect_from:
 
 ## Scholarships and Grants
 
-- **AIIT Solutions** — Developed an AI-based application final year project.  
-  *Total Award:* 0.5 million PKR — *2023*
+- **Carnot TSN / EURECOM Excellence Scholarship**  
+  *Total Award:* €5,000 — *2026*
+
+- **EURECOM Excellence Scholarship**  
+  *Total Award:* €4,500 tuition fee reduction — *2026*
 
 - **Ehsaas Undergraduate Scholarship Program**  
   *Total Award:* 0.6 million PKR — *2019–2023*
