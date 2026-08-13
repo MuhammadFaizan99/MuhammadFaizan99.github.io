@@ -35,17 +35,16 @@ Areas of Expertise
 <li>Python</li>
 <li>Machine Learning</li>
 <li>Computer Vision</li>
-<li>Epistemic Network Analysis</li>
-<li>Human–Computer Interaction</li>
-<li>JavaScript</li>
-<li>Cloud Platforms</li>
+<li>Generative AI</li>
+<li>Full-Stack Development</li>
+<li>MySQL & MongoDB</li>
+<li>Version Control (Git, GitHub, GitLab)</li>
 <li>Data Science</li>
 <li>Deep Learning</li>
 <li>Natural Language Processing</li>
 <li>Large Language Models</li>
-<li>Full-Stack Development</li>
-<li>MySQL & MongoDB</li>
-<li>Version Control (Git, GitHub)</li>
+<li>JavaScript</li>
+<li>Cloud Platforms (AWS, GCP, Azure)</li>
 </ul>
 
 Libraries & Frameworks
