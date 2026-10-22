@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-- **3+ Years** of Industry & Research Experience  
+- **4+ Years** of Industry & Research Experience  
 - **7 Peer-Reviewed** AI Publications  
 - **60+ Open-Source** ML Models  
 - **30+ Production-Ready** Applications
