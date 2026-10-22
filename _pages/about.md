@@ -35,16 +35,15 @@ Areas of Expertise
 <li>Python</li>
 <li>Machine Learning</li>
 <li>Computer Vision</li>
-<li>Generative AI</li>
-<li>Full-Stack Development</li>
-<li>MySQL & MongoDB</li>
-<li>Version Control (Git, GitHub, GitLab)</li>
-<li>Data Science</li>
-<li>Deep Learning</li>
-<li>Natural Language Processing</li>
 <li>Large Language Models</li>
 <li>JavaScript</li>
 <li>Cloud Platforms (AWS, GCP, Azure)</li>
+<li>Data Science</li>
+<li>Deep Learning</li>
+<li>Natural Language Processing</li>
+<li>Full-Stack Development</li>
+<li>MySQL & MongoDB</li>
+<li>Version Control (Git, GitHub, GitLab)</li>
 </ul>
 
 Libraries & Frameworks
@@ -79,8 +78,8 @@ Education
 
 **M.Sc. Computer Science (Data Science Track)**  
 EURECOM, Biot, France  
-2026–Present
+Sep 2026 – Present
 
 **B.Sc. in Computer Engineering**  
 University of Engineering & Technology (UET), Taxila, Pakistan  
-2019–2023
+Oct 2019 – Aug 2023
